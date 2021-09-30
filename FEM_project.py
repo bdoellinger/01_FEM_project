@@ -1,5 +1,5 @@
 '''
-# problem desciption in latex code:
+# problem description in latex code:
 \begin{align}
 \text{Use a custom FEM im} & \text{plementation to get a } \\
 \text{numerical solution to } & \text{the following problem:} \\
